@@ -23,6 +23,7 @@ Folders can be expanded and collapsed by clicking on them.
 
 # UI
 ![image](https://github.com/user-attachments/assets/012a88a4-8261-48df-849b-c16495f4f52e)
+# Folder
 ![image](https://github.com/user-attachments/assets/7d289d09-27ff-4903-8805-2f173db7813e)
 
 
