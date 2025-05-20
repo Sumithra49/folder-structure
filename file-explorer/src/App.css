@@ -1,0 +1,19 @@
+
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  
+  padding: 20px;
+  box-sizing: border-box;
+  min-height: 100vh; 
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #333;
+  user-select: none;
+}

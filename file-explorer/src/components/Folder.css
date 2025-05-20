@@ -1,0 +1,16 @@
+.folder {
+  margin-left: 16px;
+ 
+ 
+}
+
+.folder-name {
+  cursor: pointer;
+  margin: 4px 0;
+}
+
+.folder-children {
+  margin-left: 12px;
+  border-left: 1px dashed #ccc;
+  padding-left: 8px;
+}
