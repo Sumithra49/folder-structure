@@ -6,6 +6,10 @@ A simple React application to display a file explorer UI with nested folders and
 Folders can be expanded and collapsed by clicking on them.
 # deployment link:https://folder-structure-sigma.vercel.app/
 
+# updated deployment:-
+- add file and Folder
+- https://folder-structure-t67t.vercel.app/
+
 ## Features
 
 - Display nested folder and file structure.
